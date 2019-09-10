@@ -1,0 +1,18 @@
+# OSX
+.DS_Store
+
+# Golang
+bin
+cover.out
+build/
+
+# Idea
+.idea
+*.iml
+
+# terraform
+.terraform
+secrets.tfvars
+out.tfplan
+terraform.tfstate
+terraform.tfstate.backup
